@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WebCam:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebCam_jar</output-path>
+    <root id="archive" name="WebCam.jar">
+      <element id="module-output" name="WebCam" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/IIPU-master/Lab 4/target/web-cam-app-iipy-1.0-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/webcam-capture-0.3.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jnativehook-2.1.0_beta1/jnativehook/jar/jnativehook-2.1.0_beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/slf4j-api-1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/bridj-0.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/xuggle-xuggler-5.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

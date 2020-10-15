@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jnativehook-2.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jnativehook-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xuggle-xuggler-5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../web-cam-app-iipy-1.0-SNAPSHOT.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/.." recursive="false" />
+  </library>
+</component>
